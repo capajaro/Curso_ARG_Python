@@ -1,3 +1,6 @@
-AJHsHASUHaioa
-IAHISA
-ashi
+El reto 1 consiste en:
+
+1- Cargar ambos archivos .csv (Nota tener en cuenta que el delimitador de los archivos des ";")
+2- Obtener el promedio de todas las columnas númericas; e imprimirlo (print(Promedio))
+3- Hacer un Scatter plot https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html para 2 pares de variables numéricas.
+4- Bono: Hacer la gráfica "Bonito"
